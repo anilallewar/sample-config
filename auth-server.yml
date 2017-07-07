@@ -19,7 +19,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/auth
     username: root
-    password: password
+    password: 
     driver-class: com.mysql.jdbc.Driver
 
   jpa:
